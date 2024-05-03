@@ -1,0 +1,347 @@
+.logo {
+    height: 30px;
+    width: 25px;
+    margin-left: 84px;
+    margin-top: 18px;
+}
+.li{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: -20px;
+    margin-left: 808px;
+    font-family: Helvetica;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 19.55px;
+    text-align: left;
+}
+.li1{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 50px;
+    margin-top: -20px;
+    font-family: Helvetica;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 19.55px;
+    text-align: left;
+}
+.li2{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: -20px;
+    margin-left: 50px;
+    font-family: Helvetica;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 19.55px;
+    text-align: left;
+}
+.li3{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: -20px;
+    margin-left: 50px;
+    font-family: Helvetica;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 19.55px;
+    text-align: left;
+}
+.greece{
+    width: 1519px;
+    height: 706px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top: 20px;
+    background-image: url(../images/greece.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+h1{
+    font-family: Helvetica;
+    font-family: Helvetica;
+    font-size: 79px;
+    font-weight: 700;
+    line-height: 90.84px;
+    text-align: left;
+    color: #FFFFFF;
+    padding-top: 238px;
+    margin-left: 407px;
+    margin-right: 408px;
+}
+h5{
+    font-family: Helvetica;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 21.85px;
+    text-align: left;
+    margin-left: 553px;
+    margin-top: 31px;
+    color: #FFFFFF;
+}
+.h5{
+    font-family: Helvetica;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 19.55px;
+    text-align: left;
+}
+.card{
+    margin-top: 84px;
+    margin-left: 100px;
+    width: 235px;
+    height: 20px;
+}
+h4{
+    margin-bottom: 9px;
+    font-family: Helvetica;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 19.55px;
+    text-align: left;
+    color: #636060;
+}
+h3{
+    margin-bottom: 37px;
+    font-family: Helvetica;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 32.2px;
+    text-align: left;
+    color: #010101;
+}
+p{
+    font-family: Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23px;
+    text-align: left;
+    color: #636060;
+}
+.card1{
+    vertical-align: middle;
+    display: inline-block;
+    margin-top: -20px;
+    margin-left: 418px;
+    margin-bottom: 23px;
+}
+.street{
+    margin-left: 33px;
+}
+.sea{
+    margin-left: 33px;
+}
+.text-card{
+    margin-left: 418px;
+    margin-right: 33px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-bottom: 30px;
+    h2{
+        width: 162px;
+        height: 22px;
+        top: 451px;
+        left: -301px;
+        gap: 0px;
+        opacity: 0px;
+        font-family: Helvetica;
+        font-size: 19px;
+        font-weight: 400;
+        line-height: 21.85px;
+        text-align: left;
+    }
+    p{
+        width: 286px;
+        height: 63px;
+        top: 482px;
+        left: -301px;
+        gap: 0px;
+        opacity: 0px;
+        font-family: Helvetica;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 20.7px;
+        text-align: left;
+    }
+}
+.text-card1{
+    margin-right: 33px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-bottom: 30px;
+    h2{
+        width: 259px;
+        height: 22px;
+        top: 451px;
+        left: 18px;
+        gap: 0px;
+        opacity: 0px;        
+        font-family: Helvetica;
+        font-size: 19px;
+        font-weight: 400;
+        line-height: 21.85px;
+        text-align: left;
+    }
+    p{
+        width: 286px;
+        height: 63px;
+        top: 482px;
+        left: -301px;
+        gap: 0px;
+        opacity: 0px;
+        font-family: Helvetica;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 20.7px;
+        text-align: left;
+    }
+}
+.text-card2{
+    display: inline-block;
+    vertical-align: middle;
+    margin-bottom: 30px;
+    h2{
+        width: 209px;
+        height: 22px;
+        top: 451px;
+        left: 343px;
+        gap: 0px;
+        opacity: 0px;        
+        font-family: Helvetica;
+        font-size: 19px;
+        font-weight: 400;
+        line-height: 21.85px;
+        text-align: left;
+    }
+    p{
+        width: 286px;
+        height: 63px;
+        top: 482px;
+        left: 337px;
+        gap: 0px;
+        opacity: 0px;
+        font-family: Helvetica;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 20.7px;
+        text-align: left;
+    }
+}
+.card2{
+    vertical-align: middle;
+    display: inline-block;
+    margin-top: 56px;
+    margin-left: 418px;
+    margin-bottom: 23px;
+}
+.iaxta{
+
+}
+.evening{
+    margin-left: 33px;
+}
+.nangrevi{
+    margin-left: 33px;
+}
+.text-card3{
+    margin-left: 418px;
+    margin-right: 33px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-bottom: 30px;
+    h2{
+        width: 162px;
+        height: 22px;
+        top: 451px;
+        left: -301px;
+        gap: 0px;
+        opacity: 0px;
+        font-family: Helvetica;
+        font-size: 19px;
+        font-weight: 400;
+        line-height: 21.85px;
+        text-align: left;
+    }
+    p{
+        width: 286px;
+        height: 63px;
+        top: 482px;
+        left: -301px;
+        gap: 0px;
+        opacity: 0px;
+        font-family: Helvetica;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 20.7px;
+        text-align: left;
+    }
+}
+.text-card4{
+    margin-right: 33px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-bottom: 30px;
+    h2{
+        width: 259px;
+        height: 22px;
+        top: 451px;
+        left: 18px;
+        gap: 0px;
+        opacity: 0px;        
+        font-family: Helvetica;
+        font-size: 19px;
+        font-weight: 400;
+        line-height: 21.85px;
+        text-align: left;
+    }
+    p{
+        width: 286px;
+        height: 63px;
+        top: 482px;
+        left: -301px;
+        gap: 0px;
+        opacity: 0px;
+        font-family: Helvetica;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 20.7px;
+        text-align: left;
+    }
+}
+.text-card5{
+    display: inline-block;
+    vertical-align: middle;
+    margin-bottom: 30px;
+    h2{
+        width: 209px;
+        height: 22px;
+        top: 451px;
+        left: 343px;
+        gap: 0px;
+        opacity: 0px;        
+        font-family: Helvetica;
+        font-size: 19px;
+        font-weight: 400;
+        line-height: 21.85px;
+        text-align: left;
+    }
+    p{
+        width: 286px;
+        height: 63px;
+        top: 482px;
+        left: 337px;
+        gap: 0px;
+        opacity: 0px;
+        font-family: Helvetica;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 20.7px;
+        text-align: left;
+    }
+}
+.FTR{
+    margin-bottom: 140px;
+}
